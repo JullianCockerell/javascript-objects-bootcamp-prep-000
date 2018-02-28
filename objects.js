@@ -1,5 +1,5 @@
 
-var playlist = new Object();
+var playlist = {Eminem: 'Shook'};
 
 function updatePlaylist(playlist, name, song)
 {
